@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
